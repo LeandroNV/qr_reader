@@ -1,6 +1,6 @@
 # 📷 Lector de códigos QR en Flutter
 
-¡Hola! Bienvenido/a a nuestra aplicación móvil de lector de códigos QR. Esta es una aplicación de ejemplo hecha en Flutter para ayudarte a comprender cómo se puede crear una herramienta para escanear y decodificar códigos QR.
+Aplicación móvil de lector de códigos QR. Esta es una aplicación de ejemplo hecha en Flutter para ayudar a comprender cómo se puede crear una herramienta para escanear y decodificar códigos QR.
 
 ## ❓ ¿Qué es un código QR?
 
