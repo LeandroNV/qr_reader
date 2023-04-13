@@ -6,7 +6,7 @@ Aplicación móvil de lector de códigos QR. Esta es una aplicación de ejemplo 
 
 Un código QR es un tipo de código de barras bidimensional que se utiliza para almacenar información en una matriz de puntos. Los códigos QR se utilizan comúnmente para almacenar información de contacto, direcciones URL y otra información similar. 
 
-## 🚀 ¿Cómo funciona nuestra aplicación?
+## 🚀 ¿Cómo funciona la aplicación?
 
 La aplicación utiliza la cámara de tu dispositivo móvil 📷 para escanear el código QR y luego decodifica la información en el código. La aplicación muestra el resultado en pantalla. 
 
@@ -20,11 +20,4 @@ En la aplicación, se utilizan varios widgets de Flutter, como `CameraController
 
 Para utilizar la aplicación, simplemente apunta la cámara de tu dispositivo móvil hacia el código QR que deseas escanear. La aplicación reconocerá automáticamente el código y comenzará a decodificarlo. Una vez que se complete la decodificación, se mostrará la información correspondiente en pantalla.
 
-## 🤝 Contribuciones
-
-Si deseas contribuir al desarrollo de esta aplicación, ¡eres bienvenido/a! Puedes abrir un issue en nuestro repositorio de GitHub para discutir tu idea o enviar un pull request con tus mejoras. 
-
-## 📝 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT.
 
